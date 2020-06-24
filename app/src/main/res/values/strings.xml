@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Part2Videos</string>
+    <string name="i_must_do_it">Recycler View Test!</string>
+    <string name="btn_text">List View</string>
+    <string name="btn_name_card_view">Card View</string>
+
+    <string name="real_app_id">ca-app-pub-6697513545682010~2650834719</string>
+    <string name="real_ad_unit_id">ca-app-pub-6697513545682010/4702282988</string>
+
+    <string name="fake_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="fake_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
